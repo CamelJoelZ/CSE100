@@ -1,0 +1,3 @@
+(actor)--[movie#@year]-->(actor)--...
+(PITT, BRAD)--[TWELVE MONKEYS#@1995]-->(WILLIS, BRUCE)
+(BACON, KEVIN (I))--[LEMON SKY#@1988]-->(AFFLECK, CASEY)--[TO DIE FOR#@1995]-->(KIDMAN, NICOLE)

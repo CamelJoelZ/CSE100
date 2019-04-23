@@ -1,0 +1,3 @@
+(actor)--[movie#@year]-->(actor)--...
+(PITT, BRAD)--[OCEAN'S TWELVE#@2004]-->(WILLIS, BRUCE)
+(BACON, KEVIN (I))--[SUPER#@2010]-->(MCKAY, COLE S.)--[FAR AND AWAY#@1992]-->(KIDMAN, NICOLE)
